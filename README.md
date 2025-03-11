@@ -11,7 +11,7 @@ The repository [sindresorhus](https://github.com/sindresorhus/devtools-detect) g
 ## Install
 
 ```sh
-npm install disable-devtools
+npm install
 npm run dev
 ```
 
